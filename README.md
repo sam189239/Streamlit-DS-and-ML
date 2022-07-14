@@ -4,8 +4,12 @@
 A streamlit dashboard that can be used to visually analyze motor vehicle collisions in NYC 🗽 💥 🚗
 
 To run:
-streamlit run app.py
+streamlit run MVC_app.py
 
+Dataset URL: 
+https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+
+<br>
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
