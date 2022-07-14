@@ -3,6 +3,9 @@
 - NYC Motor Vehicle Collisions
 A streamlit dashboard that can be used to visually analyze motor vehicle collisions in NYC 🗽 💥 🚗
 
+To run:
+streamlit run app.py
+
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
