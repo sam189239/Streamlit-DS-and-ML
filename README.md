@@ -1,5 +1,5 @@
 # Streamlit Data Science Dashboards and Machine Learning Applications
-
+<hr>
 - NYC Motor Vehicle Collisions
 A streamlit dashboard that can be used to visually analyze motor vehicle collisions in NYC 🗽 💥 🚗
 
@@ -10,6 +10,7 @@ Dataset URL:
 https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
 <br>
+<hr>
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
