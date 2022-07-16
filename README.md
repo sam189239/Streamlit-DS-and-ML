@@ -1,5 +1,6 @@
 # Streamlit Data Science Dashboards and Machine Learning Applications
 
+
 ## Obstacle Detection using YOLOv5s
 - A Streamlit application to display inference of Object Detection model: YOLOv5s trained on the COCO dataset.
 - Image can be uploaded to perform inference. 
