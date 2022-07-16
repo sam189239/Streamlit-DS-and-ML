@@ -12,7 +12,7 @@ A streamlit dashboard that can be used to visually analyze motor vehicle collisi
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Forwarding" src="/images/app_1.jpg" width="1080">
+    <img alt="Forwarding" src="/images/MVC_1.jpg" width="540">
     <br>
   </p> 
 </td>
@@ -20,7 +20,7 @@ A streamlit dashboard that can be used to visually analyze motor vehicle collisi
 <tr>
 <td> 
   <p align="center">
-    <img alt="Routing" src="/images/app_2.jpg" width="1080">
+    <img alt="Routing" src="/images/MVC_2.jpg" width="540">
     <br>
   </p> 
 </td>
@@ -28,7 +28,7 @@ A streamlit dashboard that can be used to visually analyze motor vehicle collisi
 <tr>
 <td> 
   <p align="center">
-    <img alt="Routing" src="/images/app_3.jpg" width="1080">
+    <img alt="Routing" src="/images/MVC_3.jpg" width="540">
     <br>
   </p> 
 </td>
